@@ -16,5 +16,5 @@ Projects was created during learning react.
 
 ## 📬 Connect With Me
 
-- **LinkedIn** - [(https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg)(https://www.linkedin.com/in/nikhil-kushwaha-275a72207/)]
+- **LinkedIn** - [Nikhil Kushwaha](https://www.linkedin.com/in/nikhil-kushwaha-275a72207/)
 
